@@ -23,17 +23,17 @@ The analysis revealed a implausible finding, Beta Adopters have a 22.15% churn r
 
 ### 2. Industry Risk Segmentation
 Through risk-segmentation mapping, two distinct categories were identified:
--- The Danger Zone (DevTools): A significant outlier with a churn rate exceeding 30%, driven largely by customers switching to competitors.
--- The Revenue Anchor (Cybersecurity): The most stable segment, contributing healthy revenue with the portfolio's lowest churn rate of 16%.
+* The Danger Zone (DevTools): A significant outlier with a churn rate exceeding 30%, driven largely by customers switching to competitors.
+* The Revenue Anchor (Cybersecurity): The most stable segment, contributing healthy revenue with the portfolio's lowest churn rate of 16%.
 
 ### 3. Financial Friction vs Product Value 
 Despite active engagement with new features like **feature_35**, churned Enterprise accounts consistently cited "Budget" and "Pricing" as their primary reasons for leaving. This indicates that the 2024 spike was primarily a financial friction issue rather than a lack of product utility.
 
 ## Business Impact & Recommendations
 Leadership can protect the $136M ARR baseline by implementing the following strategies:
--- Stabilize Enterprise Billing: Transition high-risk monthly Enterprise accounts to annual billing to secure revenue and reduce monthly volatility.
--- Targeted DevTools Retention: Deploy a specialized success squad to the DevTools segment to address high "switched to competitor" rates.
--- Beta Experience Audit: Investigate the feedback of the 22.15% of adopters who churned to ensure beta features are not introducing technical friction for power users.
+* Stabilize Enterprise Billing: Transition high-risk monthly Enterprise accounts to annual billing to secure revenue and reduce monthly volatility.
+* Targeted DevTools Retention: Deploy a specialized success squad to the DevTools segment to address high "switched to competitor" rates.
+* Beta Experience Audit: Investigate the feedback of the 22.15% of adopters who churned to ensure beta features are not introducing technical friction for power users.
 
 
 
