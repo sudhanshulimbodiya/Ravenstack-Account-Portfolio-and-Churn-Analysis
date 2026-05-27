@@ -31,9 +31,9 @@ Despite active engagement with new features like **feature_35**, churned Enterpr
 
 ## Business Impact & Recommendations
 Leadership can protect the $136M ARR baseline by implementing the following strategies:
-* Stabilize Enterprise Billing: Transition high-risk monthly Enterprise accounts to annual billing to secure revenue and reduce monthly volatility.
-* Targeted DevTools Retention: Deploy a specialized success squad to the DevTools segment to address high "switched to competitor" rates.
-* Beta Experience Audit: Investigate the feedback of the 22.15% of adopters who churned to ensure beta features are not introducing technical friction for power users.
+* **Stabilize Enterprise Billing**: Transition high-risk monthly Enterprise accounts to annual billing to secure revenue and reduce monthly volatility.
+* **Targeted DevTools Retention**: Deploy a specialized success squad to the DevTools segment to address high "switched to competitor" rates.
+* **Beta Experience Audit**: Investigate the feedback of the 22.15% of adopters who churned to ensure beta features are not introducing technical friction for power users.
 
 
 
